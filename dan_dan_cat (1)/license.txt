@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dan Dan Cat
+* source:	https://sketchfab.com/3d-models/dan-dan-cat-6fd942297dc34b6cb12dca4be2710b80
+* author:	yiuvince (https://sketchfab.com/yiuvince)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dan Dan Cat" (https://sketchfab.com/3d-models/dan-dan-cat-6fd942297dc34b6cb12dca4be2710b80) by yiuvince (https://sketchfab.com/yiuvince) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
