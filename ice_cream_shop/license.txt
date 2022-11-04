@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ice Cream Shop
+* source:	https://sketchfab.com/3d-models/ice-cream-shop-34839f72ddad450b8b49ba8ba953edde
+* author:	BISSOON kavish (https://sketchfab.com/kavishbissoon)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ice Cream Shop" (https://sketchfab.com/3d-models/ice-cream-shop-34839f72ddad450b8b49ba8ba953edde) by BISSOON kavish (https://sketchfab.com/kavishbissoon) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
